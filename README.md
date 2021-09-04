@@ -3,8 +3,10 @@
 [QA-useCase.pdf](https://github.com/haniaraslan/simple-QA-blog-with-laravel/files/7110493/QA-useCase.pdf)
 
 QA blog Requirements
+--------------------
 
   Functional requirements
+  -----------------------
       The added question should appear immediately in the UI
       The added answer should appear immediately in the UI
       The user can like or dislike a question
@@ -21,6 +23,7 @@ QA blog Requirements
       same question in the same page
       
   Non-Functional requirements
+  ---------------------------
       The pages must be responsive
       Transitioning between pages takes maximum 1 sec
       The website should be compatible with all browsers
